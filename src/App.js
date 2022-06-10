@@ -1,9 +1,13 @@
-import './App.css';
+import "./App.scss";
 
 function App() {
   return (
     <div className="App">
-     <h1>Skuska</h1>
+      <h1>Skuska</h1>
+      <div className="row">
+        <button>Skuska tlacidla</button>
+        <button>dalsia skuska</button>
+      </div>
     </div>
   );
 }
