@@ -7,7 +7,6 @@
   padding: 0%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  background-color: lightblue;
 }
 
 h1 {
@@ -37,5 +36,9 @@ button {
   border-radius: 15px;
   padding: 15px;
   cursor: pointer;
+}
+
+.rit {
+  color: red;
 }
 /*# sourceMappingURL=App.css.map */
