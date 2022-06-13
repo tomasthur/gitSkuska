@@ -13,7 +13,7 @@ function App() {
   const theme = createTheme({
     palette: {
       primary: blue,
-      secondary: yellow,
+      secondary: red,
     },
   });
 
